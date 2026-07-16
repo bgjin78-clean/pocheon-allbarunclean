@@ -1,0 +1,40 @@
+{
+  "city": "포천시",
+  "brandName": "포천 올바른정리",
+  "phone": "010-4393-2414",
+  "siteUrl": "https://pocheon.allbarunclean.com",
+  "districts": [
+    {
+      "slug": "dong",
+      "name": "동지역",
+      "dongs": [
+        { "slug": "pocheondong", "name": "포천동" },
+        { "slug": "seondan", "name": "선단동" }
+      ]
+    },
+    {
+      "slug": "eup",
+      "name": "읍지역",
+      "dongs": [
+        { "slug": "soheul", "name": "소흘읍" }
+      ]
+    },
+    {
+      "slug": "myeon",
+      "name": "면지역",
+      "dongs": [
+        { "slug": "gunnae", "name": "군내면" },
+        { "slug": "naechon", "name": "내촌면" },
+        { "slug": "gasan", "name": "가산면" },
+        { "slug": "sinbuk", "name": "신북면" },
+        { "slug": "changsu", "name": "창수면" },
+        { "slug": "yeongjung", "name": "영중면" },
+        { "slug": "ildong", "name": "일동면" },
+        { "slug": "idong", "name": "이동면" },
+        { "slug": "yeongbuk", "name": "영북면" },
+        { "slug": "gwanin", "name": "관인면" },
+        { "slug": "hwahyeon", "name": "화현면" }
+      ]
+    }
+  ]
+}
